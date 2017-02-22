@@ -8,6 +8,7 @@ private:
 	string _name;
 
 public:
+	Student();
 	Student(string name);
 	~Student();
 	string GetName();

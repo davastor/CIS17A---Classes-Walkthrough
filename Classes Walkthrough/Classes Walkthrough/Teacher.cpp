@@ -1,6 +1,10 @@
 #include "Teacher.h"
 
 
+Teacher::Teacher()
+{
+	_name = "Null";
+}
 
 Teacher::Teacher(string name)
 {
