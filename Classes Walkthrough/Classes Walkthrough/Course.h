@@ -17,5 +17,6 @@ public:
 	~Course();
 
 	bool EnrollStudent(Student newStudent, int position);
+	string GetClassInfo();
 };
 
