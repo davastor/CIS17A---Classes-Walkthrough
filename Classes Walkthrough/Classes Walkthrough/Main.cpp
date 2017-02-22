@@ -12,8 +12,6 @@ int main()
 
 	cis17.EnrollStudent(danh, 0);
 	cis17.EnrollStudent(alan, 1);
-
-
 	
 	getchar();
 	return 0;
